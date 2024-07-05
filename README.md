@@ -46,6 +46,6 @@ I would like to thank the creators of the dataset and the contributors to the va
 
 ## Contact
 
-For any questions or further information, please contact [me] at [jonasgiven18@gmail.com].
+For any questions or further information, please contact me via [email](jonasgiven18@gmail.com).
 
 Thank you for exploring this project! I hope it provides valuable insights into the relationship between education and economic growth in South Africa.
