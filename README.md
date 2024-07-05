@@ -46,3 +46,24 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/yourusername/education-gdp-prediction.git
    cd education-gdp-prediction
+
+2.	**Install Required Libraries:**
+   pip install -r requirements.txt
+
+3. **Run the Jupyter Notebook:**
+   jupyter notebook
+
+4.	**Load the Dataset:**
+Ensure the dataset is available at the specified path or update the path in the notebook.
+5.	**Execute the Cells:**
+Follow the cells in the notebook to see the data exploration, model training, and prediction steps.
+
+Acknowledgments
+
+We would like to thank the creators of the dataset and the contributors to the various libraries used in this project, including pandas, numpy, matplotlib, seaborn, scikit-learn, and mlflow. Their tools and resources made this project possible.
+
+Contact
+
+For any questions or further information, please contact [Your Name] at [your.email@example.com].
+
+Thank you for exploring this project! We hope it provides valuable insights into the relationship between education and economic growth in South Africa.
