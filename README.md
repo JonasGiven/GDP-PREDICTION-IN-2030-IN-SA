@@ -36,6 +36,8 @@ To predict the GDP for 2030, I created a new input data point with the year set 
 
 ## Results
 The model predicted that the GDP for South Africa in 2030, assuming a 10% increase in the official matric pass rate from 2022, would be approximately $394.42 billion.
+![IMG_0824](https://github.com/JonasGiven/GDP-PREDICTION-IN-2030-IN-SA/assets/169194581/701ac303-7bf2-469c-91cc-b9382ab06cbb)
+
 
 ## Conclusion
 This project successfully demonstrated a positive correlation between educational outcomes and economic performance in South Africa. By using historical data and machine learning techniques, we were able to predict the future GDP based on an increase in the matric pass rate. These insights can help policymakers understand the potential economic benefits of investing in education.
