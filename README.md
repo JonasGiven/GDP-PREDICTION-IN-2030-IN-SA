@@ -43,6 +43,8 @@ The model predicted that the GDP for South Africa in 2030, assuming a 10% increa
 ![IMG_0828](https://github.com/JonasGiven/GDP-PREDICTION-IN-2030-IN-SA/assets/169194581/a069fb7f-ab5c-4642-9b7e-2d305a3e48a3)
 ![IMG_0827](https://github.com/JonasGiven/GDP-PREDICTION-IN-2030-IN-SA/assets/169194581/94c33f9c-6e22-4bb5-9116-9069043e9525)
 ![IMG_0826](https://github.com/JonasGiven/GDP-PREDICTION-IN-2030-IN-SA/assets/169194581/ab20f8f7-2db6-4b79-8f84-85573f36d87b)
+<br/>
+My analysis reveals a clear correlation between South Africa’s GDP and the official matric pass rate over the years. When the pass rate increases, the GDP also tends to rise, and when the pass rate drops, the GDP tends to fall. For instance, from around 1998 to 2003, there was a significant increase in the pass rate, accompanied by a rise in GDP. However, from 2003 to 2010, the pass rate declined sharply, which slowed the GDP growth. Conversely, from 2009 to 2014, we observed a sharp increase in the pass rate, and the GDP grew as well. This pattern continues, with the pass rate drop in 2020 and 2021 due to COVID-19 causing a slight decrease in GDP. These trends suggest a strong link between educational outcomes and economic performance in South Africa.
 
 ## Conclusion
 This project successfully demonstrated a positive correlation between educational outcomes and economic performance in South Africa. By using historical data and machine learning techniques, we were able to predict the future GDP based on an increase in the matric pass rate. These insights can help policymakers understand the potential economic benefits of investing in education.
