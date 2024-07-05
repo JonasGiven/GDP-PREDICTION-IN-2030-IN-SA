@@ -51,7 +51,7 @@ This project successfully demonstrated a positive correlation between educationa
 
 ## Acknowledgments
 
-I would like to thank the creators of the dataset and the contributors to the various libraries used in this project, including pandas, numpy, matplotlib, seaborn, scikit-learn, and mlflow. Their tools and resources made this project possible.
+I would like to thank the sources of the data and the contributors to the various libraries used in this project, including pandas, numpy, matplotlib, seaborn, scikit-learn, and mlflow. Their tools and resources made this project possible.
 
 ## Contact
 
